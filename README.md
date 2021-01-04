@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning front-end development.
 - 👯 I’m looking to collaborate on literally anything ever.
 - 🤔 I’m looking for help with building a smart mirror with my friends.
-- 📫 How to reach me: ryan.a.cooper@gmail.com
+- 📫 How to reach me: ryan.a.cooper13@gmail.com
 - 😄 Pronouns: He, him, his
 - ⚡ Fun fact: My favorite sea animal is the octopus.
 <!-- 💬 Ask me about ...-->
