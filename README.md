@@ -1,15 +1,24 @@
-### Hello and welcome! 👋
+### Hey, I'm Ryan! 👋
 
 <!--
 **rcooper47/rcooper47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a sports blog (mostly for rants with numbers), and a personal website for myself.
-- 🌱 I’m currently learning front-end development.
+I'm an aspiring programmer, industrial engineer, runner, and chicken wing connoisseur :poultry_leg:.
+- 🔭 I’m currently working on a sports blog (mostly for rants with numbers), and a personal website.
+- 🌱 I’m currently learning about machine learning.
 - 👯 I’m looking to collaborate on literally anything ever.
 - 🤔 I’m looking for help with building a smart mirror with my friends.
-- 📫 How to reach me: ryan.a.cooper13@gmail.com
-- 😄 Pronouns: He, him, his
-- ⚡ Fun fact: My favorite sea animal is the octopus.
+- 📫 How to reach me: [email](mailto:3rcooper8@gmail.com). Happy to chat and/or collaborate on a project!
+- ⚡ Fun fact: I won a 12 hour read-a-thon my senior year of high school.
+
+<!---
+- 👩‍💻 I am interested in the intersection between technology and human health. That being said, I also care a lot about education, music, and sports!
+- 📈 I love using data to tell stories, make better decisions, model complex systems, analyze behavior, and solve problems.
+- 🔜 In Spring 2021, I will be co-teaching a course called Data Science for Biotech in the Tufts Experimental College.
+- ⚡ Fun fact: I memorized 314 digits of pi in 6th grade... and still remember them... because I am a huge nerd. 🤓 
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=sejaldua&color=A4CEE5)
 <!-- 💬 Ask me about ...-->
