@@ -4,9 +4,8 @@
 **rcooper47/rcooper47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- Here are some ideas to get you started:
--->
 I'm an aspiring programmer, industrial engineer, runner, and chicken wing connoisseur :poultry_leg:.
-- 🔭 I’m currently working on a sports blog (mostly for rants with numbers), and a personal website.
+- 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
 - 🌱 I’m currently learning about machine learning.
 - 👯 I’m looking to collaborate on literally anything ever.
 - 🤔 I’m looking for help with building a smart mirror with my friends.
@@ -22,3 +21,6 @@ I'm an aspiring programmer, industrial engineer, runner, and chicken wing connoi
 
 <!-- ![](https://komarev.com/ghpvc/?username=sejaldua&color=A4CEE5)
 <!-- 💬 Ask me about ...-->
+
+-->
+
