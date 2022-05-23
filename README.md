@@ -2,9 +2,11 @@
 
 <!--
 **rcooper47/rcooper47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+I'm a growing programmer, entrepreneur, and Industrial Engineer from Georgia Tech.
+- I love Running
 
-<!-- Here are some ideas to get you started:
-I'm an aspiring programmer, industrial engineer, runner, and chicken wing connoisseur :poultry_leg:.
+<!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
 - 🌱 I’m currently learning about machine learning.
 - 👯 I’m looking to collaborate on literally anything ever.
