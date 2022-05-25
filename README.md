@@ -5,6 +5,9 @@
 -->
 I'm a growing programmer, entrepreneur, and Industrial Engineer from Georgia Tech.
 - I love Running
+- I'm spending the next 30-90 days becoming a Full-Stack Web Developer
+- I plan to spend the 30-90 days after that (possibly some overlap) upskilling for AI Safety engineering
+- I plan to spend 30-90 days at some point (definitely will be time overlap with AI Safety) working on iOS apps
 
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
@@ -24,5 +27,5 @@ I'm a growing programmer, entrepreneur, and Industrial Engineer from Georgia Tec
 <!-- ![](https://komarev.com/ghpvc/?username=sejaldua&color=A4CEE5)
 <!-- 💬 Ask me about ...-->
 
--->
+
 
