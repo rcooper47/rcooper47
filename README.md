@@ -3,7 +3,7 @@
 <!--
 **rcooper47/rcooper47** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a growing programmer, entrepreneur, and Industrial Engineer from Georgia Tech.
+I'm a growing Software Engineer and Industrial Engineer from Georgia Tech.
 
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
