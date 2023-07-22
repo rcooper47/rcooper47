@@ -4,7 +4,8 @@
 **rcooper47/rcooper47** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I'm a growing Software Engineer and Industrial Engineer from Georgia Tech.
-
+- 🔭 I’m focusing on building a review app using SwiftUI.
+- 🤔 In the background, I'm working on a fantasy football predictor using Online Learning & Prediction and a Steven Universe RESTAPI.
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
 - 🌱 I’m currently learning about machine learning.
