@@ -8,7 +8,7 @@ I'm a growing Software Engineer and Wramblin Wreck from Georgia Tech.
 - 🔭 I’m focusing on building a review app using SwiftUI.
 - 🤔 When my head hurts from that I work on:
   - A fantasy football predictor using Online Learning & Prediction or
-  - A Steven Universe RESTAPI or 
+  - A Steven Universe REST API or 
   - A Confidence Intervals Program for Basketball Shooting Percentages
 - 📘 I'm reading Principles of Computer System Design.
 <!--
