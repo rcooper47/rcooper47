@@ -10,7 +10,7 @@ I'm a growing Software Engineer and Wramblin Wreck from Georgia Tech 🐝.
   - A fantasy football predictor using Online Learning & Prediction or
   - A Steven Universe REST API or 
   - A Confidence Intervals Program for Basketball Shooting Percentages
-- 📘 I'm reading Principles of Computer System Design.
+- 📘 I'm reading [Principles of Computer System Design](https://github.com/rcooper47/my-brain/tree/main/2023/August).
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
 - 🌱 I’m currently learning about machine learning.
