@@ -7,9 +7,7 @@ I'm a growing Software Engineer and Wramblin Wreck from Georgia Tech 🐝.
 
 - 🔭 I’m focusing on building a review app using SwiftUI.
 - 🤔 When my head hurts from that I work on:
-  - A fantasy football predictor using Online Learning & Prediction or
-  - A Steven Universe REST API or 
-  - A Confidence Intervals Program for Basketball Shooting Percentages
+  - A fantasy football predictor using Online Learning & Prediction
 - 📘 I'm reading [Web API Design: The Missing Link](https://github.com/rcooper47/my-brain/blob/main/2023/August/Books/Web-API-Design.md).
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
