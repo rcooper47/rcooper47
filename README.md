@@ -7,7 +7,7 @@ I'm a growing Software Engineer at CapTech and a Wramblin Wreck from Georgia Tec
 
 - 🔭 I’m focusing on building a review app using SwiftUI.
 - 🤔 When my head hurts from that I work on:
-  - A fantasy football predictor using Online Learning & Prediction
+  - [Video Games](raevenhart.neocities.org)
 - 📘 I'm reading [Web API Design: The Missing Link](https://github.com/rcooper47/my-brain/blob/main/2023/August/Books/Web-API-Design.md).
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
