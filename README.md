@@ -4,11 +4,12 @@
 **rcooper47/rcooper47** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 I'm a Software Engineer, Improviser, and a Wramblin Wreck from Georgia Tech 🐝.
-
+<!--
 - 🔭 I’m focusing on building a review app using SwiftUI.
 - 🤔 When my head hurts from that I work on:
   - [Video Games](raevenhart.neocities.org)
 - 📘 I'm reading [Web API Design: The Missing Link](https://github.com/rcooper47/my-brain/blob/main/2023/August/Books/Web-API-Design.md).
+-->
 <!--
 - 🔭 I’m working on a sports blog (mostly for rants with numbers), and a personal website.
 - 🌱 I’m currently learning about machine learning.
