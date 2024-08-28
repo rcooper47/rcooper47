@@ -3,7 +3,7 @@
 <!--
 **rcooper47/rcooper47** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I'm a growing Software Engineer at CapTech and a Wramblin Wreck from Georgia Tech 🐝.
+I'm a Software Engineer, Improviser, and a Wramblin Wreck from Georgia Tech 🐝.
 
 - 🔭 I’m focusing on building a review app using SwiftUI.
 - 🤔 When my head hurts from that I work on:
